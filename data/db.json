@@ -1,9 +1,34 @@
 {
-    "nome_do_recurso": [
+    "produtos": [
         {
             "id": 1,
-            "descricao": "nome do produto",
-            "preco": "999.99"
+            "descricao": "Relógio",
+            "preco": "34.53",
+            "imagem": " "
+        },
+        {
+            "id": 2,
+            "descricao": "Anel",
+            "preco": "430.65",
+            "imagem": " "
+        },
+        {
+            "id": 3,
+            "descricao": "Colar",
+            "preco": "103.43",
+            "imagem": " "
+        },
+        {
+            "id": 4,
+            "descricao": "Chapéu",
+            "preco": "78.00",
+            "imagem": " "
+        },
+        {
+            "id": 5,
+            "descricao": "Ocúlos-Escuros",
+            "preco": "20.90",
+            "imagem": " "
         }
     ]
 }
